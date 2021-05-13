@@ -1,0 +1,38 @@
+label {
+    text-align: right;
+}
+
+.dojoslist {
+    text-align: center;
+}
+
+.dojoname {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.dojos {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.heading {
+    text-align: center;
+    padding-left: 6em;
+    font-size: 1.5em;
+}
+
+.addbutton {
+    margin: 0 0 0 20em;
+    display: block;
+}
+
+.addbuttonninja {
+    margin: .75em 0 0 20em;
+    display: block;
+}
+
+.deletebtn {
+    font-size: .70em;
+}
